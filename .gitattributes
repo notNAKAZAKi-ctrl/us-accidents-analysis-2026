@@ -1,2 +1,2 @@
-dist/*.parquet filter=lfs diff=lfs merge=lfs -text
 parquets/*.parquet filter=lfs diff=lfs merge=lfs -text
+dist/*.parquet filter=lfs diff=lfs merge=lfs -text

@@ -10,7 +10,17 @@ __pycache__/
 .Python
 build/
 develop-eggs/
+<<<<<<< HEAD
 dist/
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+dist/
+=======
+>>>>>>> 8c06040265d3ed9f89e9df01706b5a577090e89a
+=======
+>>>>>>> a53e76dcf370d0c4b06f793f6d9840fd6dff9757
+>>>>>>> 1287a9836b6afcfe33b035609b3e4d36c7890a93
 downloads/
 eggs/
 .eggs/
